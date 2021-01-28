@@ -8,12 +8,7 @@ O app contém os seguintes módulos
 * Tela de cadastro de usuário e perfil e uma webview para listar repositórios favoritados pelos usuários do Github.
 
 ## páginas
-![Foto do App](https://github.com/CarlosSTS/loginBase/blob/master/gitProject.gif)
-
-## páginas
-![Foto do App](https://github.com/CarlosSTS/loginBase/blob/master/Screen%20Shot%202021-01-10%20at%2021.37.36.png)
-
-
+![Foto do App](https://github.com/CarlosSTS/GitList-App/blob/master/gifProject.gif)
 
 ## Testando
 RODANDO O PROJETO
