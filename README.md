@@ -9,6 +9,9 @@ O app contém os seguintes módulos
 * Uma tela de perfil mostrando algumas informações do usuário cadastrado e seus repositórios favoritados.
 * Uma webView para mostrar o repositórios.
 
+## Explicação do aplicativo no LinkedIn
+* [Explicação do aplicativo](https://www.linkedin.com/posts/carlos-ferreira-4b2ba219a_reactnative-activity-6760602129725034496-QidW)
+
 ## páginas
 ![Foto do App vazio](https://github.com/CarlosSTS/GitList-App/blob/master/images/empty.png)
 ![Foto do App adicionado](https://github.com/CarlosSTS/GitList-App/blob/master/images/added.png)
