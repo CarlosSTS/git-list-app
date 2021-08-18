@@ -1,5 +1,5 @@
 # GitList-App
-um aplicativo feito para adicionar e listar usuários do Github e seus repositórios favoritados usando a API REST do Github.
+Um aplicativo feito para adicionar e listar usuários do Github e seus repositórios favoritados usando a API REST do Github.
 > Uso de fonts externas ([Lato](https://fonts.google.com/specimen/Lato) e [Roboto](https://fonts.google.com/specimen/Roboto)) do google fonts.
 ## módulos
 
@@ -20,7 +20,7 @@ O app contém os seguintes módulos
 
 ## Testando
 RODANDO O PROJETO
-* yarn install=> para instalar as Dependências do projeto
+* yarn install => para instalar as Dependências do projeto
 * yarn start => para inicializar o projeto
 * yarn android => para executar o projeto no emulador android
 * yarn ios => Para executar no emulador iOS
@@ -28,6 +28,6 @@ RODANDO O PROJETO
 ## Feito por
 
 Carlos Ferreira
-* [github](https://www.github.com/CarlosSTS)
-* [email](mailto://carlossts826@gmail.com)
+* [Github](https://www.github.com/CarlosSTS)
+* [Email](mailto://carlossts826@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/carlos-ferreira-4b2ba219a/)
