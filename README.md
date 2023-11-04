@@ -1,4 +1,4 @@
-# GitList-App
+# Git-list-app
 Um aplicativo feito para adicionar e listar usuários do Github e seus repositórios favoritados usando a API REST do Github.
 > Uso de fonts externas ([Lato](https://fonts.google.com/specimen/Lato) e [Roboto](https://fonts.google.com/specimen/Roboto)) do google fonts.
 ## módulos
