@@ -13,10 +13,19 @@ O app contém os seguintes módulos
 * [Explicação do aplicativo](https://www.linkedin.com/posts/carlos-ferreira-4b2ba219a_reactnative-activity-6760602129725034496-QidW)
 
 ## páginas
-![Foto do App vazio](https://github.com/CarlosSTS/GitList-App/blob/master/images/empty.png)
-![Foto do App adicionado](https://github.com/CarlosSTS/GitList-App/blob/master/images/added.png)
-![Foto do App detalhe](https://github.com/CarlosSTS/GitList-App/blob/master/images/detail.png)
-![Foto do App webView](https://github.com/CarlosSTS/GitList-App/blob/master/images/webView.png)
+<table>
+  <tr>
+<td><img src="https://github.com/CarlosSTS/GitList-App/blob/master/images/empty.png" alt="Foto do App vazio" width="360" /></td>
+<td><img src="https://github.com/CarlosSTS/GitList-App/blob/master/images/added.png" alt="Foto do App adicionado" width="360" /></td>
+</tr>
+</table>
+
+<table>
+  <tr>
+<td><img src="https://github.com/CarlosSTS/GitList-App/blob/master/images/detail.png" alt="Foto do App detalhe" width="360" /></td>
+<td><img src="https://github.com/CarlosSTS/GitList-App/blob/master/images/webView.png" alt="Foto do App webView" width="360" /></td>
+</tr>
+</table>
 
 ## FRONTEND
 RODANDO O PROJETO FRONTEND
